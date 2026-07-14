@@ -57,31 +57,20 @@
 
 # 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://linkedin.com/in/shreyes07">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:shreyesjaiswal7@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/shreyes-7">
-<img src="https://skillicons.dev/icons?i=github" height="48"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/shreyes7">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" height="45"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/shreyes07">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
+  </a>
+  <a href="mailto:shreyesjaiswal7@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" />
+  </a>
+  <a href="https://github.com/shreyes-7">
+    <img src="https://skillicons.dev/icons?i=github" height="48" />
+  </a>
+  <a href="https://leetcode.com/u/shreyes7">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" height="44" />
+  </a>
+</p>
 
 ---
 
