@@ -7,13 +7,13 @@
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0F172A,75:172554,100:2563EB&text=SHREYES%20JAISWAL&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=GenAI%20Engineer%20%7C%20Backend%20Engineer%20%7C%20AI%20Systems%20Builder&descAlignY=61&descSize=18&animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:020617,45:0F172A,75:172554,100:2563EB&text=SHREYES%20JAISWAL&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=GenAI%20Engineer%20%7C%20Full%20Stack%20Engineer%20%7C%20AI%20Systems%20Builder&descAlignY=61&descSize=18&animation=fadeIn"
 />
 
 <br/>
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Generative+AI+%7C+RAG+%7C+Agentic+AI;Building+Reliable+LLM-Powered+Systems;Hybrid+Retrieval+%7C+Vector+Search+%7C+Reranking;LangGraph+%7C+LiteLLM+%7C+MCP+%7C+FastAPI;Backend+Engineering+%7C+Distributed+Systems;700%2B+DSA+Problems+Solved"
+src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Generative+AI+%7C+RAG+%7C+Agentic+AI;LLM+Engineering+%7C+AI+Agents+%7C+MCP;Full+Stack+%7C+Backend+%7C+Cloud;Hybrid+Retrieval+%7C+Vector+Search+%7C+Evaluation;700%2B+DSA+Problems+Solved"
 />
 
 <br/><br/>
@@ -32,62 +32,18 @@ src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size
 
 👋 About Me
 
-<table>
-<tr>
-<td width="55%" valign="top">
+GenAI-focused software engineer building production-oriented LLM, RAG and Agentic AI systems, with strong foundations in backend and full-stack engineering. I work across AI orchestration, retrieval, evaluation, APIs, databases, distributed systems, cloud and modern web development — turning AI ideas into reliable, scalable applications.
 
-🤖 GenAI Engineer
-
-I build production-oriented Generative AI systems with a strong focus on:
-
-LLMs & RAG
-
-Agentic AI & tool-using agents
-
-Hybrid retrieval & reranking
-
-LLM orchestration
-
-AI evaluation & guardrails
-
-MCP-based tool integration
-
-My focus is on making AI systems grounded, modular, observable, evaluable, and reliable rather than simply wrapping an LLM around an application.
-
-</td>
-
-<td width="45%" valign="top">
-
-⚡ Backend Engineer
-
-I also build the engineering layer that makes AI systems usable at scale:
-
-Python & FastAPI
-
-Node.js & Express
-
-REST APIs & WebSockets
-
-PostgreSQL, MongoDB & Redis
-
-Kafka & distributed workflows
-
-Docker & Kubernetes
-
-AWS & CI/CD
-
-GenAI is my primary focus; backend engineering is the foundation I use to ship it.
-
-</td>
-</tr>
-</table>
-
-🧠 GenAI Stack
+🧠 GenAI & AI
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-1E293B?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-1E293B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Agentic_AI-312E81?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangChain-1C1917?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge"/>
@@ -96,72 +52,113 @@ GenAI is my primary focus; backend engineering is the foundation I use to ship i
 <img src="https://img.shields.io/badge/Guardrails-312E81?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MCP-0F766E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FastMCP-115E59?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hybrid_Search-1D4ED8?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/BM25-1E40AF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/HNSW-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hybrid_Search-1D4ED8?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Vector_Search-0369A1?style=for-the-badge"/>
 
 </div>
 
-<br/>
+💻 Programming Languages
 
 <div align="center">
 
-🔎 Retrieval
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript&theme=dark" />
 
-🤖 Agents
+<br/>
 
-📊 Reliability
-
-🔌 Integration
-
-BM25
-
-Tool Calling
-
-Ragas
-
-MCP
-
-Vector Search
-
-LangGraph
-
-Guardrails
-
-FastMCP
-
-HNSW
-
-State & Routing
-
-Evaluation
-
-APIs
-
-Hybrid Search
-
-Workflow Orchestration
-
-Observability
-
-LLM Gateways
+<img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </div>
 
-⚡ Backend & Infrastructure
+🎨 Frontend & Full Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,postgres,mongodb,redis,kafka,docker,kubernetes,aws,nginx,git,github,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,nodejs,express&theme=dark" />
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/MERN-0F172A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/WebSockets-0F172A?style=for-the-badge"/>
+
+</div>
+
+⚡ Backend & Distributed Systems
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,kafka,nginx&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Microservices-0F172A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Distributed_Systems-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WebSockets-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Apache_Kafka-0F172A?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+
+</div>
+
+🗄️ Databases & Data
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,cassandra&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Pinecone-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Qdrant-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector_Databases-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hybrid_Retrieval-1E293B?style=for-the-badge"/>
+
+</div>
+
+☁️ Cloud, DevOps & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,nginx,git,github,linux&theme=dark" />
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/CI%2FCD-0F172A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Airflow-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SDLC-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-0F172A?style=for-the-badge"/>
+
+</div>
+
+⛓️ Blockchain & Web3
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=solidity&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Truffle-5E464D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web3-111111?style=for-the-badge"/>
+
+</div>
+
+🧩 Engineering Foundations
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DSA-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Distributed_Systems-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating_Systems-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Networks-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database_Systems-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Debugging-0891B2?style=for-the-badge"/>
 
 </div>
 
@@ -169,15 +166,11 @@ LLM Gateways
 
 <div align="center">
 
-<a href="https://github.com/shreyes-7">
-
 <img
 width="96%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyes-7&theme=tokyonight"
 alt="GitHub contribution overview"
 />
-
-</a>
 
 <br/><br/>
 
@@ -225,8 +218,8 @@ alt="LeetCode statistics"
 <br/><br/>
 
 <img src="https://img.shields.io/badge/773%2B-Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-<img src="https://img.shields.io/badge/365%20Days-Streak%20Badge-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DSA-Graphs%20%7C%20DP%20%7C%20Trees%20%7C%20Greedy-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/365%20Days-Badge-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Graphs%20%7C%20DP%20%7C%20Trees%20%7C%20Greedy-7C3AED?style=for-the-badge"/>
 
 </div>
 
@@ -277,83 +270,15 @@ alt="GitHub trophies"
 
 </div>
 
-🧩 What I Work With
+🎯 Currently Building Toward
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-
-🤖 GenAI
-
-LLMs
-RAG
-Agentic AI
-Embeddings
-Hybrid Retrieval
-Reranking
-Evaluation
-
-</td>
-
-<td align="center" width="25%">
-
-⚙️ Backend
-
-Python
-FastAPI
-Node.js
-Express
-REST
-WebSockets
-Kafka
-
-</td>
-
-<td align="center" width="25%">
-
-🗄️ Data
-
-PostgreSQL
-MongoDB
-MySQL
-Redis
-Pinecone
-Qdrant
-Vector DBs
-
-</td>
-
-<td align="center" width="25%">
-
-☁️ DevOps
-
-AWS
-Docker
-Kubernetes
-Nginx
-GitHub
-CI/CD
-Linux
-
-</td>
-</tr>
-</table>
-
-</div>
-
-🎯 Current Focus
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/01-Agentic_AI-312E81?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/02-Advanced_RAG-1D4ED8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/03-LLM_Orchestration-0369A1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/04-MCP_%26_Tool_Use-0F766E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/05-AI_Evaluation-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/06-Backend_Systems-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/07-Cloud_Infrastructure-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GenAI-Advanced%20RAG-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agents-Tool%20Use%20%26%20MCP-312E81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-Orchestration%20%26%20Evaluation-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-Scalable%20Systems-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud-Production%20Infrastructure-0369A1?style=for-the-badge"/>
 
 </div>
 
